@@ -1,5 +1,5 @@
 # app-claro
---> template de desarrollo de aplicaciones con header y menu ---> ionic 
+--> template de desarrollo de aplicaciones con header y menu ---> ionic con slide mediano
 
 # instalacion
 --> Se realiza commit del aplicativo desde la herramienta de visual (CTRL + SHIFT + P), se busca clone y se ingresa la URL. \
