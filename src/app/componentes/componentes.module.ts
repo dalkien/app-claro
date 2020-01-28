@@ -3,15 +3,17 @@ import { CommonModule } from '@angular/common';
 import { CabecerasComponent } from './cabeceras/cabeceras.component'
 import { IonicModule } from '@ionic/angular';
 import { MenuComponent } from './menu/menu.component';
+import { SlidesComponent } from './slides/slides.component';
 
 
 
 @NgModule({
   declarations: [CabecerasComponent,
-    MenuComponent],
+    MenuComponent, SlidesComponent],
   exports:[
     CabecerasComponent,
-    MenuComponent
+    MenuComponent, 
+    SlidesComponent
   ],
   imports: [
     CommonModule, 

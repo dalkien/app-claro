@@ -12,6 +12,7 @@ const routes: Routes = [
     path: 'tienda-claro',
     loadChildren: () => import('./pages/tienda-claro/tienda-claro.module').then( m => m.TiendaClaroPageModule)
   },
+
 ];
 
 @NgModule({
